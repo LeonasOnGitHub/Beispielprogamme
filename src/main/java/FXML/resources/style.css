@@ -1,0 +1,20 @@
+.slider {
+	-fx-show-tick-labels: true;
+}
+
+.bla {
+	-fx-underline: true;
+}
+
+#ueberschrift {
+	-fx-font: bold italic 14pt "Arial";
+}
+
+.check-box {
+	-fx-background-color: #0000FF;
+}
+
+.check-box:selected {
+	-fx-background-color: #00FF00;
+}
+
